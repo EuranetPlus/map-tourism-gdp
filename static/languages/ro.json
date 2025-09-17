@@ -1,13 +1,13 @@
 {
   "heading": "Cât de important este turismul pentru economiile UE?",
   "subheading": "Ponderea contribuției totale a călătoriilor și turismului la produsul intern brut (PIB) al țărilor membre ale Uniunii Europene în 2022.",
-  "legend1": "Nici o informatie disponibila",
-  "tooltip1": "a PIB-ului",
+  "legend1": "Nu sunt disponibile date",
+  "tooltip1": "din PIB",
   "textSourceDescription": "Sursă",
-  "textSource": "om de stat",
-  "textNoteDescription": "Notă",
-  "textNote": "UE; WTTC; Oxford Economics; 2019 și 2022; cifrele sunt în prețuri și cursuri de schimb constante din 2022 din martie 2023",
+  "textSource": "Om de stat",
+  "textNoteDescription": "Nota",
+  "textNote": "UE; WTTC; Oxford Economics; 2019 și 2022; cifrele sunt în prețuri constante din 2022 și cursuri de schimb valutar din martie 2023",
   "textDataAccess": "Accesați datele",
-  "linkDataAccess": "https://www.statista.com/statistici/1228395/cota-de-pib-de-calatorii-si-turism-in-ue-pe-tari/",
-  "textCountryClick": "Click pentru mai multe informații"
+  "linkDataAccess": "https://www.statista.com/statistics/1228395/travel-and-tourism-share-of-gdp-in-the-eu-by-country/",
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }

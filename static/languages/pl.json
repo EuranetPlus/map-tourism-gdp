@@ -1,13 +1,13 @@
 {
-  "heading": "Jak ważna jest turystyka dla gospodarek UE?",
-  "subheading": "Udział całkowitego wkładu podróży i turystyki w produkt krajowy brutto (PKB) krajów członkowskich Unii Europejskiej w 2022 roku.",
+  "heading": "Jak ważne jest turystyka dla gospodarek UE?",
+  "subheading": "Udział podróży i turystyki w całkowitym produkcie krajowym brutto (PKB) państw członkowskich Unii Europejskiej w 2022 r.",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "PKB",
   "textSourceDescription": "Źródło",
   "textSource": "Polityk",
   "textNoteDescription": "Notatka",
-  "textNote": "UE; WTTC; Ekonomia Oksfordu; 2019 i 2022; dane liczbowe podano w cenach stałych z 2022 r. i kursach wymiany z marca 2023 r",
-  "textDataAccess": "Uzyskaj dostęp do danych",
-  "linkDataAccess": "https://www.statista.com/statistics/1228395/travel-and-tourism-share-of-gdp-in-the-eu-by-country/",
+  "textNote": "UE; WTTC; Oxford Economics; 2019 i 2022; dane podano w stałych cenach i kursach walutowych z 2022 r. z marca 2023 r.",
+  "textDataAccess": "Dostęp do danych",
+  "linkDataAccess": "https://www.statista.com/statistics/1228395/udział-w-podróżach-i-turystyce-w-produkcie-europejskim-w-poszczególnych-krajach/",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

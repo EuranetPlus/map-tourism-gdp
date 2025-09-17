@@ -1,13 +1,13 @@
 {
   "heading": "Hur viktig är turismen för EU:s ekonomier?",
-  "subheading": "Andel av det totala bidraget från resor och turism till EU:s medlemsländers bruttonationalprodukt (BNP) 2022.",
-  "legend1": "Ingen data tillgänglig",
+  "subheading": "Andel av det totala bidraget från resor och turism till bruttonationalprodukten (BNP) för Europeiska unionens medlemsstater år 2022.",
+  "legend1": "Inga data tillgängliga",
   "tooltip1": "av BNP",
   "textSourceDescription": "Källa",
   "textSource": "Statsman",
   "textNoteDescription": "Notera",
-  "textNote": "EU; WTTC; Oxford Economics; 2019 och 2022; siffrorna är i konstanta 2022 priser och växelkurser från mars 2023",
-  "textDataAccess": "Få åtkomst till data",
+  "textNote": "EU; WTTC; Oxford Economics; 2019 och 2022; siffrorna är i konstanta 2022 års priser och växelkurser från och med mars 2023.",
+  "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://www.statista.com/statistics/1228395/travel-and-tourism-share-of-gdp-in-the-eu-by-country/",
-  "textCountryClick": "Klicka för mer info"
+  "textCountryClick": "Klicka för mer information"
 }

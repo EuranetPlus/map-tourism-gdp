@@ -1,13 +1,13 @@
 {
-  "heading": "Kiek turizmas yra svarbus ES ekonomikai?",
-  "subheading": "Bendro kelionių ir turizmo indėlio į Europos Sąjungos valstybių narių bendrąjį vidaus produktą (BVP) dalis 2022 m.",
+  "heading": "Kiek svarbus turizmas ES ekonomikai?",
+  "subheading": "Kelionių ir turizmo indėlio į Europos Sąjungos valstybių narių bendrąjį vidaus produktą (BVP) dalis 2022 m.",
   "legend1": "Nėra duomenų",
   "tooltip1": "BVP",
   "textSourceDescription": "Šaltinis",
-  "textSource": "valstybininkas",
+  "textSource": "Valstybininkas",
   "textNoteDescription": "Pastaba",
-  "textNote": "ES; WTTC; Oksfordo ekonomika; 2019 ir 2022 m.; skaičiai pateikti nepakitusiomis 2022 m. kainomis ir 2023 m. kovo mėnesio valiutų kursais",
-  "textDataAccess": "Pasiekite duomenis",
+  "textNote": "ES; WTTC; „Oxford Economics“; 2019 ir 2022 m.; skaičiai pateikti palyginamosiomis 2022 m. kainomis ir pagal 2023 m. kovo mėn. valiutų kursus.",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://www.statista.com/statistics/1228395/travel-and-tourism-share-of-gdp-in-the-eu-by-country/",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

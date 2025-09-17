@@ -2,11 +2,11 @@
   "heading": "Hoe belangrijk is toerisme voor de economieën van de EU?",
   "subheading": "Aandeel van de totale bijdrage van reizen en toerisme aan het bruto binnenlands product (bbp) van de lidstaten van de Europese Unie in 2022.",
   "legend1": "Geen gegevens beschikbaar",
-  "tooltip1": "van het bbp",
+  "tooltip1": "van het BBP",
   "textSourceDescription": "Bron",
   "textSource": "Staatsman",
   "textNoteDescription": "Opmerking",
-  "textNote": "EU; WTTC; Oxford-economie; 2019 en 2022; De cijfers zijn in constante prijzen en wisselkoersen uit 2022 vanaf maart 2023",
+  "textNote": "EU; WTTC; Oxford Economics; 2019 en 2022; cijfers zijn in constante prijzen van 2022 en wisselkoersen van maart 2023.",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://www.statista.com/statistics/1228395/travel-and-tourism-share-of-gdp-in-the-eu-by-country/",
   "textCountryClick": "Klik voor meer informatie"

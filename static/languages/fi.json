@@ -1,13 +1,13 @@
 {
   "heading": "Kuinka tärkeää matkailu on EU:n talouksille?",
-  "subheading": "Osuus matkailun kokonaisosuudesta Euroopan unionin jäsenmaiden bruttokansantuotteeseen (BKT) vuonna 2022.",
-  "legend1": "Tietoja ei ole saatavilla",
+  "subheading": "Matkailun ja turismin osuus Euroopan unionin jäsenmaiden bruttokansantuotteesta (BKT) vuonna 2022.",
+  "legend1": "Ei tietoja saatavilla",
   "tooltip1": "BKT:sta",
   "textSourceDescription": "Lähde",
   "textSource": "Valtiomies",
   "textNoteDescription": "Huomautus",
-  "textNote": "EU; WTTC; Oxford Economics; 2019 ja 2022; Luvut ovat vuoden 2022 kiinteissä hinnoissa ja maaliskuun 2023 valuuttakursseissa",
+  "textNote": "EU; WTTC; Oxford Economics; 2019 ja 2022; luvut ovat vuoden 2022 kiinteinä hintoina ja maaliskuun 2023 valuuttakursseina.",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://www.statista.com/statistics/1228395/travel-and-tourism-share-of-gdp-in-the-eu-by-country/",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja"
+  "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }

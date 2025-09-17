@@ -1,13 +1,13 @@
 {
   "heading": "Kemm hu importanti t-turiżmu għall-ekonomiji tal-UE?",
-  "subheading": "Sehem tal-kontribuzzjoni totali tal-ivvjaġġar u t-turiżmu għall-prodott gross domestiku (PGD) tal-pajjiżi membri tal-Unjoni Ewropea fl-2022.",
+  "subheading": "Sehem tal-kontribuzzjoni totali tal-ivvjaġġar u t-turiżmu għall-prodott domestiku gross (PDG) tal-pajjiżi membri tal-Unjoni Ewropea fl-2022.",
   "legend1": "L-ebda dejta disponibbli",
-  "tooltip1": "tal-PGD",
+  "tooltip1": "tal-PDG",
   "textSourceDescription": "Sors",
   "textSource": "Statista",
   "textNoteDescription": "Nota",
-  "textNote": "UE; WTTC; Ekonomija ta' Oxford; 2019 u 2022; iċ-ċifri huma fi prezzijiet u rati tal-kambju kostanti tal-2022 minn Marzu 2023",
-  "textDataAccess": "Aċċessa għad-data",
-  "linkDataAccess": "https://www.statista.com/statistics/1228395/sehem-tal-pgd-tal-vjajar-u-turism-fl-ue-skont-pajji/",
-  "textCountryClick": "Ikklikkja għal aktar informazzjoni"
+  "textNote": "UE; WTTC; Oxford Economics; 2019 u 2022; iċ-ċifri huma fi prezzijiet kostanti tal-2022 u rati tal-kambju minn Marzu 2023",
+  "textDataAccess": "Aċċessa d-dejta",
+  "linkDataAccess": "https://www.statista.com/statistics/1228395/travel-and-tourism-share-of-gdp-in-the-eu-by-country/",
+  "textCountryClick": "Ikklikkja għal aktar tagħrif"
 }

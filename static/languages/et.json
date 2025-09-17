@@ -1,12 +1,12 @@
 {
-  "heading": "Kui oluline on turism ELi majandustele?",
-  "subheading": "Reisimise ja turismi kogupanuse osatähtsus Euroopa Liidu liikmesriikide sisemajanduse koguproduktis (SKT) 2022. aastal.",
-  "legend1": "Andmed puuduvad",
-  "tooltip1": "SKTst",
+  "heading": "Kui oluline on turism ELi majandusele?",
+  "subheading": "Turismi ja reisimise osakaal Euroopa Liidu liikmesriikide sisemajanduse koguproduktis (SKPs) 2022. aastal.",
+  "legend1": "Andmed pole saadaval",
+  "tooltip1": "SKP-st",
   "textSourceDescription": "Allikas",
   "textSource": "Riigimees",
-  "textNoteDescription": "Märge",
-  "textNote": "EL; WTTC; Oxford Economics; 2019 ja 2022; arvud on 2022. aasta püsihindades ja vahetuskurssides 2023. aasta märtsi seisuga",
+  "textNoteDescription": "Märkus",
+  "textNote": "EL; WTTC; Oxford Economics; 2019 ja 2022; arvud on 2022. aasta püsivhindades ja vahetuskursside alusel 2023. aasta märtsi seisuga.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://www.statista.com/statistics/1228395/travel-and-tourism-share-of-gdp-in-the-eu-by-country/",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

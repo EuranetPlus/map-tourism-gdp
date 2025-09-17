@@ -1,13 +1,13 @@
 {
-  "heading": "Cé chomh tábhachtach agus atá turasóireacht do gheilleagair an AE?",
-  "subheading": "Sciar de ranníocaíocht iomlán an taistil agus na turasóireachta le holltáirgeacht intíre (OTI) bhallstáit an Aontais Eorpaigh in 2022.",
+  "heading": "Cé chomh tábhachtach is atá an turasóireacht do gheilleagair an AE?",
+  "subheading": "Sciar den iomlán ranníocaíocht a dhéanann taisteal agus turasóireacht le holltáirgeacht intíre (OTI) bhallstáit an Aontais Eorpaigh in 2022.",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltip1": "de OTI",
+  "tooltip1": "den OTI",
   "textSourceDescription": "Foinse",
   "textSource": "Státaire",
   "textNoteDescription": "Nóta",
-  "textNote": "AE; WTTC; Oxford Economics; 2019 agus 2022; tá na figiúirí i bpraghsanna seasta 2022 agus rátaí malairte amhail Márta 2023",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
+  "textNote": "AE; WTTC; Eacnamaíocht Oxford; 2019 agus 2022; tá na figiúirí i bpraghsanna tairiseacha 2022 agus i rátaí malairte ó Mhárta 2023",
+  "textDataAccess": "Rochtain ar na sonraí",
   "linkDataAccess": "https://www.statista.com/statistics/1228395/travel-and-tourism-share-of-gdp-in-the-eu-by-country/",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }

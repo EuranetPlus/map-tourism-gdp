@@ -1,13 +1,13 @@
 {
-  "heading": "Koliko je turizam važan za gospodarstva EU-a?",
-  "subheading": "Udio ukupnog doprinosa putovanja i turizma bruto domaćem proizvodu (BDP) zemalja članica Europske unije u 2022.",
+  "heading": "Koliko je turizam važan za gospodarstva EU?",
+  "subheading": "Udio ukupnog doprinosa putovanja i turizma bruto domaćem proizvodu (BDP) zemalja članica Europske unije u 2022. godini.",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "BDP-a",
   "textSourceDescription": "Izvor",
   "textSource": "Državnik",
   "textNoteDescription": "Bilješka",
-  "textNote": "EU; WTTC; Oxford Economics; 2019. i 2022.; podaci su u stalnim cijenama i tečajevima iz 2022. od ožujka 2023",
-  "textDataAccess": "Pristupite podacima",
+  "textNote": "EU; WTTC; Oxford Economics; 2019. i 2022.; brojke su u stalnim cijenama iz 2022. i tečajevima od ožujka 2023.",
+  "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://www.statista.com/statistics/1228395/travel-and-tourism-share-of-gdp-in-the-eu-by-country/",
   "textCountryClick": "Kliknite za više informacija"
 }

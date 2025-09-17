@@ -1,12 +1,12 @@
 {
   "heading": "Aký dôležitý je cestovný ruch pre ekonomiky EÚ?",
-  "subheading": "Podiel celkového príspevku cestovného ruchu k hrubému domácemu produktu (HDP) členských krajín Európskej únie v roku 2022.",
+  "subheading": "Podiel celkového príspevku cestovania a cestovného ruchu k hrubému domácemu produktu (HDP) členských krajín Európskej únie v roku 2022.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltip1": "HDP",
   "textSourceDescription": "Zdroj",
-  "textSource": "štátnik",
+  "textSource": "Štátnik",
   "textNoteDescription": "Poznámka",
-  "textNote": "EÚ; WTTC; Oxford Economics; 2019 a 2022; údaje sú v stálych cenách roku 2022 a výmenných kurzoch k marcu 2023",
+  "textNote": "EÚ; WTTC; Oxford Economics; 2019 a 2022; údaje sú v stálych cenách roku 2022 a výmenných kurzoch k marcu 2023.",
   "textDataAccess": "Prístup k údajom",
   "linkDataAccess": "https://www.statista.com/statistics/1228395/travel-and-tourism-share-of-gdp-in-the-eu-by-country/",
   "textCountryClick": "Kliknite pre viac informácií"

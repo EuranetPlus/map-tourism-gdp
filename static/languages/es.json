@@ -1,13 +1,13 @@
 {
   "heading": "¿Qué importancia tiene el turismo para las economías de la UE?",
-  "subheading": "Participación de la contribución total de los viajes y el turismo al producto interno bruto (PIB) de los países miembros de la Unión Europea en 2022.",
-  "legend1": "Datos no disponibles",
+  "subheading": "Porcentaje de la contribución total de los viajes y el turismo al producto interior bruto (PIB) de los países miembros de la Unión Europea en 2022.",
+  "legend1": "No hay datos disponibles",
   "tooltip1": "del PIB",
   "textSourceDescription": "Fuente",
   "textSource": "Estadista",
   "textNoteDescription": "Nota",
-  "textNote": "UE; WTTC; Economía de Oxford; 2019 y 2022; las cifras están a precios constantes de 2022 y tipos de cambio a marzo de 2023",
-  "textDataAccess": "Accede a los datos",
-  "linkDataAccess": "https://www.statista.com/statistics/1228395/travel-and-tourism-share-of-pib-in-the-eu-by-country/",
+  "textNote": "UE; WTTC; Oxford Economics; 2019 y 2022; las cifras están en precios constantes de 2022 y tipos de cambio a marzo de 2023.",
+  "textDataAccess": "Acceder a los datos",
+  "linkDataAccess": "https://www.statista.com/statistics/1228395/travel-and-tourism-share-of-gdp-in-the-eu-by-country/",
   "textCountryClick": "Haga clic para más información"
 }
