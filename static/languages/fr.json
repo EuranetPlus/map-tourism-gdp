@@ -1,13 +1,13 @@
 {
   "heading": "Quelle est l’importance du tourisme pour les économies de l’UE ?",
-  "subheading": "Part de la contribution totale des voyages et du tourisme au produit intérieur brut (PIB) des pays membres de l'Union européenne en 2022.",
+  "subheading": "Part de la contribution totale du tourisme au produit intérieur brut (PIB) des pays membres de l'Union européenne en 2022.",
   "legend1": "Aucune donnée disponible",
   "tooltip1": "du PIB",
   "textSourceDescription": "Source",
-  "textSource": "Homme d'État",
+  "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "UE ; WTTC ; Oxford Economics ; 2019 et 2022 ; les chiffres sont exprimés en prix et taux de change constants de 2022 en date de mars 2023",
+  "textNote": "Eurostat",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "Part des voyages et du tourisme dans le PIB de l'UE par pays",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-statistical-reports/w/ks-ft-22-011",
   "textCountryClick": "Cliquez pour plus d'informations"
 }

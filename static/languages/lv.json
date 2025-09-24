@@ -1,13 +1,13 @@
 {
   "heading": "Cik svarīgs tūrisms ir ES ekonomikai?",
-  "subheading": "Ceļojumu un tūrisma kopējā ieguldījuma daļa Eiropas Savienības dalībvalstu iekšzemes kopproduktā (IKP) 2022. gadā.",
+  "subheading": "Tūrisma kopējā ieguldījuma daļa Eiropas Savienības dalībvalstu iekšzemes kopproduktā (IKP) 2022. gadā.",
   "legend1": "Dati nav pieejami",
   "tooltip1": "no IKP",
   "textSourceDescription": "Avots",
-  "textSource": "Valstsvīrs",
+  "textSource": "Eurostat",
   "textNoteDescription": "Piezīme",
-  "textNote": "ES; WTTC; Oxford Economics; 2019. un 2022. gads; skaitļi ir norādīti nemainīgās 2022. gada cenās un valūtas kursos uz 2023. gada martu.",
+  "textNote": "Eurostat",
   "textDataAccess": "Piekļūstiet datiem",
-  "linkDataAccess": "https://www.statista.com/statistics/1228395/travel-and-tourism-share-of-gdp-in-the-eu-by-country/",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-statistical-reports/w/ks-ft-22-011",
   "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

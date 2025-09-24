@@ -1,13 +1,13 @@
 {
   "heading": "Колко важен е туризмът за икономиките на ЕС?",
-  "subheading": "Дял от общия принос на пътуванията и туризма към брутния вътрешен продукт (БВП) на страните членки на Европейския съюз през 2022 г.",
+  "subheading": "Дял от общия принос на туризма към брутния вътрешен продукт (БВП) на страните членки на Европейския съюз през 2022 г.",
   "legend1": "Няма налични данни",
   "tooltip1": "от БВП",
   "textSourceDescription": "Източник",
-  "textSource": "Държавник",
+  "textSource": "Евростат",
   "textNoteDescription": "Забележка",
-  "textNote": "ЕС; WTTC; Oxford Economics; 2019 и 2022; данните са по постоянни цени за 2022 г. и валутни курсове към март 2023 г.",
+  "textNote": "Евростат",
   "textDataAccess": "Достъп до данните",
-  "linkDataAccess": "https://www.statista.com/statistics/1228395/travel-and-tourism-share-of-gdp-in-the-eu-by-country/",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-statistical-reports/w/ks-ft-22-011",
   "textCountryClick": "Кликнете за повече информация"
 }
