@@ -1,13 +1,13 @@
 {
   "heading": "Cik svarīgs tūrisms ir ES ekonomikai?",
-  "subheading": "Tūrisma kopējā ieguldījuma daļa Eiropas Savienības dalībvalstu iekšzemes kopproduktā (IKP) 2022. gadā.",
+  "subheading": "Tūrisma tiešās bruto pievienotās vērtības īpatsvars Eiropas Savienības dalībvalstu ekonomikā no kopējās bruto pievienotās vērtības 2019. gadā. Tūrisms veido 4,5% no kopējās bruto pievienotās vērtības.",
   "legend1": "Dati nav pieejami",
-  "tooltip1": "no IKP",
+  "tooltip1": "no bruto pievienotās vērtības",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat",
   "textNoteDescription": "Piezīme",
   "textNote": "Eurostat",
   "textDataAccess": "Piekļūstiet datiem",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-statistical-reports/w/ks-ft-22-011",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Tourism_statistics",
   "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

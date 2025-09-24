@@ -1,13 +1,13 @@
 {
   "heading": "Quelle est l’importance du tourisme pour les économies de l’UE ?",
-  "subheading": "Part de la contribution totale du tourisme au produit intérieur brut (PIB) des pays membres de l'Union européenne en 2022.",
+  "subheading": "Part de la valeur ajoutée brute directe du tourisme, en pourcentage de la valeur ajoutée brute totale dans l'économie des pays membres de l'Union européenne en 2019. Le tourisme représente 4,5 % de la valeur ajoutée brute totale.",
   "legend1": "Aucune donnée disponible",
-  "tooltip1": "du PIB",
+  "tooltip1": "de la valeur ajoutée brute",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
   "textNote": "Eurostat",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-statistical-reports/w/ks-ft-22-011",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Statistiques_du_tourisme",
   "textCountryClick": "Cliquez pour plus d'informations"
 }

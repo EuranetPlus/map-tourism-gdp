@@ -1,13 +1,13 @@
 {
   "heading": "Quanto è importante il turismo per le economie dell'UE?",
-  "subheading": "Quota del contributo totale del turismo al prodotto interno lordo (PIL) dei paesi membri dell'Unione Europea nel 2022.",
+  "subheading": "Quota del valore aggiunto lordo diretto del turismo, come quota del valore aggiunto lordo totale nell'economia dei paesi membri dell'Unione Europea nel 2019. Il turismo rappresenta il 4,5% del valore aggiunto lordo totale.",
   "legend1": "Nessun dato disponibile",
-  "tooltip1": "del PIL",
+  "tooltip1": "del valore aggiunto lordo",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
   "textNote": "Eurostat",
   "textDataAccess": "Accedi ai dati",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-statistical-reports/w/ks-ft-22-011",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Tourism_statistics",
   "textCountryClick": "Clicca per maggiori informazioni"
 }

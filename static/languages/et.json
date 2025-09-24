@@ -1,13 +1,13 @@
 {
   "heading": "Kui oluline on turism ELi majandusele?",
-  "subheading": "Turismi osakaal Euroopa Liidu liikmesriikide sisemajanduse koguproduktis (SKPs) 2022. aastal.",
+  "subheading": "Turismi otsese kogulisandväärtuse osakaal Euroopa Liidu liikmesriikide majanduse kogulisandväärtusest 2019. aastal. Turism moodustab 4,5% kogulisandväärtusest.",
   "legend1": "Andmed pole saadaval",
-  "tooltip1": "SKP-st",
+  "tooltip1": "kogulisandväärtusest",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
   "textNoteDescription": "Märkus",
   "textNote": "Eurostat",
   "textDataAccess": "Juurdepääs andmetele",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-statistical-reports/w/ks-ft-22-011",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Turismi_statistika",
   "textCountryClick": "Lisateabe saamiseks klõpsake"
 }

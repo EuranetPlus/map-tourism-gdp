@@ -1,13 +1,13 @@
 {
   "heading": "Колко важен е туризмът за икономиките на ЕС?",
-  "subheading": "Дял от общия принос на туризма към брутния вътрешен продукт (БВП) на страните членки на Европейския съюз през 2022 г.",
+  "subheading": "Дял на брутната добавена стойност от директния туризъм, като дял от общата брутна добавена стойност в икономиката на страните членки на Европейския съюз през 2019 г. Туризмът представлява 4,5% от общата брутна добавена стойност.",
   "legend1": "Няма налични данни",
-  "tooltip1": "от БВП",
+  "tooltip1": "брутна добавена стойност",
   "textSourceDescription": "Източник",
   "textSource": "Евростат",
   "textNoteDescription": "Забележка",
   "textNote": "Евростат",
   "textDataAccess": "Достъп до данните",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-statistical-reports/w/ks-ft-22-011",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Tourism_statistics",
   "textCountryClick": "Кликнете за повече информация"
 }

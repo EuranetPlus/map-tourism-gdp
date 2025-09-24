@@ -1,13 +1,13 @@
 {
   "heading": "Jak ważne jest turystyka dla gospodarek UE?",
-  "subheading": "Udział turystyki w całkowitym produkcie krajowym brutto (PKB) państw członkowskich Unii Europejskiej w 2022 r.",
+  "subheading": "Udział bezpośredniej wartości dodanej brutto w turystyce jako udział w całkowitej wartości dodanej brutto w gospodarce państw członkowskich Unii Europejskiej w 2019 r. Turystyka stanowi 4,5% całkowitej wartości dodanej brutto.",
   "legend1": "Brak dostępnych danych",
-  "tooltip1": "PKB",
+  "tooltip1": "wartości dodanej brutto",
   "textSourceDescription": "Źródło",
   "textSource": "Eurostat",
   "textNoteDescription": "Notatka",
   "textNote": "Eurostat",
   "textDataAccess": "Dostęp do danych",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-statistical-reports/w/ks-ft-22-011",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Statystyki_turystyczne",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

@@ -1,13 +1,13 @@
 {
   "heading": "Hvor vigtig er turisme for EU's økonomier?",
-  "subheading": "Andel af turismens samlede bidrag til bruttonationalproduktet (BNP) i EU-medlemslandene i 2022.",
+  "subheading": "Andel af turismens direkte bruttoværditilvækst som andel af den samlede bruttoværditilvækst i økonomien i EU-landene i 2019. Turisme tegner sig for 4,5 % af den samlede bruttoværditilvækst.",
   "legend1": "Ingen data tilgængelige",
-  "tooltip1": "af BNP",
+  "tooltip1": "af bruttoværditilvæksten",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
   "textNote": "Eurostat",
   "textDataAccess": "Få adgang til dataene",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-statistical-reports/w/ks-ft-22-011",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Turismestatistik",
   "textCountryClick": "Klik for mere information"
 }

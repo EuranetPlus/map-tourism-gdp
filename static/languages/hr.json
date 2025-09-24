@@ -1,13 +1,13 @@
 {
   "heading": "Koliko je turizam važan za gospodarstva EU?",
-  "subheading": "Udio ukupnog doprinosa turizma bruto domaćem proizvodu (BDP) zemalja članica Europske unije u 2022. godini.",
+  "subheading": "Udio izravne bruto dodane vrijednosti turizma, kao udio ukupne bruto dodane vrijednosti u gospodarstvu zemalja članica Europske unije u 2019. Turizam čini 4,5% ukupne bruto dodane vrijednosti.",
   "legend1": "Nema dostupnih podataka",
-  "tooltip1": "BDP-a",
+  "tooltip1": "bruto dodane vrijednosti",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat",
   "textNoteDescription": "Bilješka",
   "textNote": "Eurostat",
   "textDataAccess": "Pristup podacima",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-statistical-reports/w/ks-ft-22-011",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Tourism_statistics",
   "textCountryClick": "Kliknite za više informacija"
 }

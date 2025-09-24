@@ -1,13 +1,13 @@
 {
   "heading": "How important is tourism to EU economies?",
-  "subheading": "Share of the total contribution of tourism to the gross domestic product (GDP) of European Union member countries in 2022.",
+  "subheading": "Share of the tourism direct gross value added, as share of total gross value added in the economy of European Union member countries in 2019. Tourism accounts for 4.5% of the total gross value added.",
   "legend1": "No data available",
-  "tooltip1": "of GDP",
+  "tooltip1": "of gross value added",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
   "textNote": "Eurostat",
   "textDataAccess": "Access the data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-statistical-reports/w/ks-ft-22-011",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Tourism_statistics",
   "textCountryClick": "Click for more info"
 }

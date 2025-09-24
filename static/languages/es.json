@@ -1,13 +1,13 @@
 {
   "heading": "¿Qué importancia tiene el turismo para las economías de la UE?",
-  "subheading": "Porcentaje de la contribución total del turismo al producto interior bruto (PIB) de los países miembros de la Unión Europea en 2022.",
+  "subheading": "Porcentaje del valor añadido bruto directo del turismo, como porcentaje del valor añadido bruto total en la economía de los países miembros de la Unión Europea en 2019. El turismo representa el 4,5% del valor añadido bruto total.",
   "legend1": "No hay datos disponibles",
-  "tooltip1": "del PIB",
+  "tooltip1": "del valor añadido bruto",
   "textSourceDescription": "Fuente",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
   "textNote": "Eurostat",
   "textDataAccess": "Acceder a los datos",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-statistical-reports/w/ks-ft-22-011",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Estadísticas_de_turismo",
   "textCountryClick": "Haga clic para más información"
 }

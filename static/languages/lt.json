@@ -1,13 +1,13 @@
 {
   "heading": "Kiek svarbus turizmas ES ekonomikai?",
-  "subheading": "Bendro turizmo indėlio į Europos Sąjungos šalių narių bendrąjį vidaus produktą (BVP) dalis 2022 m.",
+  "subheading": "Turizmo tiesioginės bendrosios pridėtinės vertės dalis, palyginti su visa Europos Sąjungos valstybių narių ekonomikos bendrąja pridėtine verte 2019 m. Turizmas sudaro 4,5 % visos bendrosios pridėtinės vertės.",
   "legend1": "Nėra duomenų",
-  "tooltip1": "BVP",
+  "tooltip1": "bendrosios pridėtinės vertės",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas",
   "textNoteDescription": "Pastaba",
   "textNote": "Eurostatas",
   "textDataAccess": "Prieiga prie duomenų",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-statistical-reports/w/ks-ft-22-011",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Turizmo_statistika",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

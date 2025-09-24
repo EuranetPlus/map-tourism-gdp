@@ -1,13 +1,13 @@
 {
   "heading": "Mennyire fontos a turizmus az EU gazdaságai számára?",
-  "subheading": "A turizmus teljes hozzájárulásának aránya az Európai Unió tagországainak bruttó hazai termékéhez (GDP) 2022-ben.",
+  "subheading": "A turizmus közvetlen bruttó hozzáadott értékének aránya az Európai Unió tagországainak gazdaságában a teljes bruttó hozzáadott értékhez viszonyítva 2019-ben. A turizmus a teljes bruttó hozzáadott érték 4,5%-át teszi ki.",
   "legend1": "Nincsenek elérhető adatok",
-  "tooltip1": "a GDP-ből",
+  "tooltip1": "a bruttó hozzáadott értékből",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat",
   "textNoteDescription": "Jegyzet",
   "textNote": "Eurostat",
   "textDataAccess": "Hozzáférés az adatokhoz",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-statistical-reports/w/ks-ft-22-011",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Turisztikai_statisztikák",
   "textCountryClick": "Kattintson a további információkért"
 }

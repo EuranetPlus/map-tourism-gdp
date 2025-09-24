@@ -1,13 +1,13 @@
 {
   "heading": "Kemm hu importanti t-turiżmu għall-ekonomiji tal-UE?",
-  "subheading": "Sehem tal-kontribuzzjoni totali tat-turiżmu għall-prodott domestiku gross (PDG) tal-pajjiżi membri tal-Unjoni Ewropea fl-2022.",
+  "subheading": "Sehem tal-valur miżjud gross dirett tat-turiżmu, bħala sehem tal-valur miżjud gross totali fl-ekonomija tal-pajjiżi membri tal-Unjoni Ewropea fl-2019. It-turiżmu jammonta għal 4.5% tal-valur miżjud gross totali.",
   "legend1": "L-ebda dejta disponibbli",
-  "tooltip1": "tal-PDG",
+  "tooltip1": "tal-valur miżjud gross",
   "textSourceDescription": "Sors",
   "textSource": "L-Eurostat",
   "textNoteDescription": "Nota",
   "textNote": "L-Eurostat",
   "textDataAccess": "Aċċessa d-dejta",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-statistical-reports/w/ks-ft-22-011",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Statistiċi_tat-Turiżmu",
   "textCountryClick": "Ikklikkja għal aktar tagħrif"
 }

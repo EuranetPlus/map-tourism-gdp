@@ -1,13 +1,13 @@
 {
   "heading": "Hur viktig är turismen för EU:s ekonomier?",
-  "subheading": "Andel av turismens totala bidrag till bruttonationalprodukten (BNP) i Europeiska unionens medlemsstater år 2022.",
+  "subheading": "Andel av turismens direkta bruttoförädlingsvärde, som andel av det totala bruttoförädlingsvärdet i EU:s medlemsländers ekonomi år 2019. Turismen står för 4,5 % av det totala bruttoförädlingsvärdet.",
   "legend1": "Inga data tillgängliga",
-  "tooltip1": "av BNP",
+  "tooltip1": "av bruttoförädlingsvärdet",
   "textSourceDescription": "Källa",
   "textSource": "Eurostat",
   "textNoteDescription": "Notera",
   "textNote": "Eurostat",
   "textDataAccess": "Åtkomst till data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-statistical-reports/w/ks-ft-22-011",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Turismstatistik",
   "textCountryClick": "Klicka för mer information"
 }

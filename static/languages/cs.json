@@ -1,13 +1,13 @@
 {
   "heading": "Jak důležitý je cestovní ruch pro ekonomiky EU?",
-  "subheading": "Podíl celkového příspěvku cestovního ruchu k hrubému domácímu produktu (HDP) členských zemí Evropské unie v roce 2022.",
+  "subheading": "Podíl hrubé přidané hodnoty z cestovního ruchu přímo v ekonomice členských zemí Evropské unie v roce 2019. Cestovní ruch se na celkové hrubé přidané hodnotě podílí 4,5 %.",
   "legend1": "Nejsou k dispozici žádná data",
-  "tooltip1": "HDP",
+  "tooltip1": "hrubé přidané hodnoty",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
   "textNote": "Eurostat",
   "textDataAccess": "Přístup k datům",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-statistical-reports/w/ks-ft-22-011",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Tourism_statistics",
   "textCountryClick": "Klikněte pro více informací"
 }

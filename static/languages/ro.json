@@ -1,13 +1,13 @@
 {
   "heading": "Cât de important este turismul pentru economiile UE?",
-  "subheading": "Ponderea contribuției totale a turismului la produsul intern brut (PIB) al țărilor membre ale Uniunii Europene în 2022.",
+  "subheading": "Ponderea valorii adăugate brute directe a turismului, ca pondere din valoarea adăugată brută totală în economia țărilor membre ale Uniunii Europene în 2019. Turismul reprezintă 4,5% din valoarea adăugată brută totală.",
   "legend1": "Nu sunt disponibile date",
-  "tooltip1": "din PIB",
+  "tooltip1": "din valoarea adăugată brută",
   "textSourceDescription": "Sursă",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
   "textNote": "Eurostat",
   "textDataAccess": "Accesați datele",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-statistical-reports/w/ks-ft-22-011",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Tourism_statistics",
   "textCountryClick": "Faceți clic pentru mai multe informații"
 }

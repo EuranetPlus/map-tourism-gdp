@@ -1,13 +1,13 @@
 {
   "heading": "Kuinka tärkeää matkailu on EU:n talouksille?",
-  "subheading": "Matkailun osuus Euroopan unionin jäsenmaiden bruttokansantuotteesta (BKT) vuonna 2022.",
+  "subheading": "Matkailun suoran bruttoarvonlisäyksen osuus Euroopan unionin jäsenmaiden talouden kokonaisbruttoarvonlisäyksestä vuonna 2019. Matkailun osuus kokonaisbruttoarvonlisäyksestä on 4,5 %.",
   "legend1": "Ei tietoja saatavilla",
-  "tooltip1": "BKT:sta",
+  "tooltip1": "bruttoarvonlisäyksestä",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat",
   "textNoteDescription": "Huomautus",
   "textNote": "Eurostat",
   "textDataAccess": "Käytä tietoja",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-statistical-reports/w/ks-ft-22-011",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Matkailutilastot",
   "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }

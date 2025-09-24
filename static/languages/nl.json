@@ -1,13 +1,13 @@
 {
   "heading": "Hoe belangrijk is toerisme voor de economieën van de EU?",
-  "subheading": "Aandeel van de totale bijdrage van toerisme aan het bruto binnenlands product (bbp) van de lidstaten van de Europese Unie in 2022.",
+  "subheading": "Aandeel van de directe bruto toegevoegde waarde van het toerisme, als aandeel van de totale bruto toegevoegde waarde in de economie van de lidstaten van de Europese Unie in 2019. Toerisme is goed voor 4,5% van de totale bruto toegevoegde waarde.",
   "legend1": "Geen gegevens beschikbaar",
-  "tooltip1": "van het BBP",
+  "tooltip1": "van de bruto toegevoegde waarde",
   "textSourceDescription": "Bron",
   "textSource": "Eurostat",
   "textNoteDescription": "Opmerking",
   "textNote": "Eurostat",
   "textDataAccess": "Toegang tot de gegevens",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-statistical-reports/w/ks-ft-22-011",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Toerismestatistieken",
   "textCountryClick": "Klik voor meer informatie"
 }

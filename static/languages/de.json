@@ -1,13 +1,13 @@
 {
   "heading": "Wie wichtig ist der Tourismus für die EU-Wirtschaft?",
-  "subheading": "Anteil des gesamten Beitrags des Tourismus zum Bruttoinlandsprodukt (BIP) der Mitgliedsländer der Europäischen Union im Jahr 2022.",
+  "subheading": "Anteil der direkten Bruttowertschöpfung des Tourismus als Anteil an der gesamten Bruttowertschöpfung in der Wirtschaft der Mitgliedsländer der Europäischen Union im Jahr 2019. Der Tourismus macht 4,5 % der gesamten Bruttowertschöpfung aus.",
   "legend1": "Keine Daten verfügbar",
-  "tooltip1": "des BIP",
+  "tooltip1": "der Bruttowertschöpfung",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat",
   "textNoteDescription": "Notiz",
   "textNote": "Eurostat",
   "textDataAccess": "Zugriff auf die Daten",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-statistical-reports/w/ks-ft-22-011",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Tourism_statistics",
   "textCountryClick": "Klicken Sie hier für weitere Informationen"
 }
